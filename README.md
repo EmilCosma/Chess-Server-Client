@@ -1,6 +1,6 @@
 # Chess-Server-Client
 
-This project is a chess server and client implemented in the C++ programming language. The main purpose of this project is to provide a platform where two or more players can interact in a game of chess through a connection to the server. The implementation is done using advanced object-oriented programming (OOP) concepts.
+This project is a chess server and client implemented in the C++ programming language. The main purpose of this project is to provide a platform where two or more players can interact in a game of chess through a connection to the server. The implementation is done using object-oriented programming (OOP) concepts.
 
 Communication between the server and clients is done through sockets. This ensures the correct and secure transmission of information regarding the moves made by the players.
 
